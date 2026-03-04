@@ -1,0 +1,512 @@
+Registration System is running.
+
+ar is an invalid command!
+an is an invalid command!
+at is an invalid command!
+ai is an invalid command!
+aa is an invalid command!
+r is an invalid command!
+o is an invalid command!
+c is an invalid command!
+e is an invalid command!
+d is an invalid command!
+q is an invalid command!
+pc is an invalid command!
+Schedule is empty!
+ps is an invalid command!
+Student list is empty!
+pl is an invalid command!
+Schedule is empty!
+pt is an invalid command!
+Schedule is empty!
+pg is an invalid command!
+Schedule is empty!
+blah is an invalid command!
+x is an invalid command!
+INVALID: 10/2/2022 younger than 16 years old.
+INVALID: 10/2/2024 younger than 16 years old.
+INVALID: 9/2/2026 cannot be today or a future day.
+INVALID: 2/29/2003 is not a valid calendar date!
+INVALID: 4/31/2003 is not a valid calendar date!
+INVALID: 13/31/2003 is not a valid calendar date!
+INVALID: 3/32/2003 is not a valid calendar date!
+INVALID: -1/31/2003 is not a valid calendar date!
+INVALID: CC major does not exist.
+INVALID: -1 credit is negative!
+INVALID: XX is not an integer!
+Missing data tokens.
+Missing data tokens.
+NN: Invalid state code.
+[John Doe 1/2/2007][Resident] added to the list.
+[John Doe 3/20/2007][Resident] added to the list.
+[John Doe 12/20/2004][Resident] added to the list.
+[John Doe 4/3/2003][Resident] added to the list.
+[John Doe 4/3/2003] student is already in the list.
+[John Doe 1/20/2003][International] added to the list.
+[John Doe 1/20/2003] student is already in the list.
+[john doe 1/20/2003] student is already in the list.
+[Jane Doe 5/1/1996][Nonresident] added to the list.
+[Jane Doe 5/1/1996] student is already in the list.
+[April March 3/31/2000][Nonresident] added to the list.
+[Mary Lindsey 12/1/2001][Nonresident] added to the list.
+[Roy Brooks 8/8/1999][Tristate: NY] added to the list.
+[Roy Brooks 9/9/1999][Tristate: CT] added to the list.
+[Kate Lindsey 7/15/2002][International] added to the list.
+[Kate Lindsey 7/15/2002] student is already in the list.
+[Carl Brown 10/7/2004][International] added to the list.
+[Paul Siegel 5/1/2000][Tristate: CT] added to the list.
+[Nathan Lin 12/12/2003][International] added to the list.
+[Bill Scanlan 5/1/1999][International] added to the list.
+[May Liang 6/30/2004][International study abroad] added to the list.
+student list loaded from the text file.
+* Student list ordered by last, first name, DOB *
+[Roy Brooks 8/8/1999] [MATH,School of Arts & Sciences] credits earned: 111 [Senior][tri-state:NY]
+[Roy Brooks 9/9/1999] [ITI,School of Communication and Information] credits earned: 100 [Senior][tri-state:CT]
+[Carl Brown 10/7/2004] [CS,School of Arts & Sciences] credits earned: 75 [Junior][international]
+[Jane Doe 5/1/1996] [CS,School of Arts & Sciences] credits earned: 30 [Sophomore][non-resident]
+[John Doe 1/20/2003] [BAIT,Rutgers Business School] credits earned: 60 [Junior][international]
+[John Doe 4/3/2003] [CS,School of Arts & Sciences] credits earned: 116 [Senior][resident]
+[John Doe 12/20/2004] [ECE,School of Engineering] credits earned: 65 [Junior][resident]
+[John Doe 1/2/2007] [ECE,School of Engineering] credits earned: 20 [Freshman][resident]
+[John Doe 3/20/2007] [ECE,School of Engineering] credits earned: 90 [Senior][resident]
+[May Liang 6/30/2004] [CS,School of Arts & Sciences] credits earned: 0 [Freshman][international:study abroad]
+[Nathan Lin 12/12/2003] [CS,School of Arts & Sciences] credits earned: 89 [Junior][international]
+[Kate Lindsey 7/15/2002] [ITI,School of Communication and Information] credits earned: 59 [Sophomore][international]
+[Mary Lindsey 12/1/2001] [BAIT,Rutgers Business School] credits earned: 89 [Junior][non-resident]
+[April March 3/31/2000] [BAIT,Rutgers Business School] credits earned: 109 [Senior][non-resident]
+[Bill Scanlan 5/1/1999] [CS,School of Arts & Sciences] credits earned: 120 [Senior][international]
+[Paul Siegel 5/1/2000] [CS,School of Arts & Sciences] credits earned: 90 [Senior][tri-state:CT]
+* end of list **
+[John Doe 3/20/2007] removed from the list.
+[John Doe 3/20/2007] is not in the student list.
+[John Doe 1/2/2007] student is already in the list.
+[John Doe 3/20/2007][Resident] added to the list.
+[John Doe 12/20/2004] student is already in the list.
+[John Doe 4/3/2003] student is already in the list.
+[John Doe 4/3/2003] student is already in the list.
+[John Doe 1/20/2003] student is already in the list.
+[John Doe 1/20/2003] student is already in the list.
+[john doe 1/20/2003] student is already in the list.
+[Jane Doe 5/1/1996] student is already in the list.
+[Jane Doe 5/1/1996] student is already in the list.
+[April March 3/31/2000] student is already in the list.
+[Mary Lindsey 12/1/2001] student is already in the list.
+[Roy Brooks 8/8/1999] student is already in the list.
+[Roy Brooks 9/9/1999] student is already in the list.
+[Kate Lindsey 7/15/2002] student is already in the list.
+[Kate Lindsey 7/15/2002] student is already in the list.
+[Carl Brown 10/7/2004] student is already in the list.
+[Paul Siegel 5/1/2000] student is already in the list.
+[Nathan Lin 12/12/2003] student is already in the list.
+[Bill Scanlan 5/1/1999] student is already in the list.
+[May Liang 6/30/2004] student is already in the list.
+student list loaded from the text file.
+INVALID: course name cs113 does not exist.
+INVALID: period 0 does not exist.
+INVALID: faculty patell does not exist.
+INVALID: location hil1114 does not exist.
+[CS100 8:30] [PATEL] [HIL114, Hill Center, Busch] added to the schedule.
+INVALID: CS100 period 1 already exists.
+INVALID: PATEL time conflict.
+INVALID: [HIL114, Hill Center, Busch] not available.
+[CS100 12:10] [PATEL] [HIL114, Hill Center, Busch] added to the schedule.
+[CS200 14:00] [PATEL] [ARC103, Allison Road Classroom, Busch] added to the schedule.
+[CS200 15:50] [PATEL] [ARC103, Allison Road Classroom, Busch] added to the schedule.
+INVALID: PATEL time conflict.
+[CS300 15:50] [HARPER] [MU302, Murray Hall, College Avenue] added to the schedule.
+[CS300 14:00] [CERAVOLO] [MU302, Murray Hall, College Avenue] added to the schedule.
+[CS442 8:30] [HARPER] [AB2225, Academic Building, College Avenue] added to the schedule.
+[CS400 12:10] [KAUR] [TIL232, Tillett Hall, Livingston] added to the schedule.
+[CS400 10:20] [TAYLOR] [BEAUD, Beck Hall, Livingston] added to the schedule.
+[CS442 12:10] [ZIMNES] [ARC103, Allison Road Classroom, Busch] added to the schedule.
+[HST 17:40] [BROWN] [BEAUD, Beck Hall, Livingston] added to the schedule.
+[HST 15:50] [CERAVOLO] [HIL114, Hill Center, Busch] added to the schedule.
+[CCD 15:50] [BROWN] [AB2225, Academic Building, College Avenue] added to the schedule.
+[CCD 10:20] [BROWN] [MU302, Murray Hall, College Avenue] added to the schedule.
+[PHY100 10:20] [LIM] [AB2225, Academic Building, College Avenue] added to the schedule.
+[PHY100 15:50] [LIM] [TIL232, Tillett Hall, Livingston] added to the schedule.
+[PHY200 12:10] [LIM] [AB2225, Academic Building, College Avenue] added to the schedule.
+[ECE300 8:30] [RAMESH] [TIL232, Tillett Hall, Livingston] added to the schedule.
+[ECE400 10:20] [RAMESH] [TIL232, Tillett Hall, Livingston] added to the schedule.
+[CCD 17:40] [CERAVOLO] [HIL114, Hill Center, Busch] added to the schedule.
+* List of sections ordered by course name, section time *
+[CCD 10:20] [BROWN] [MU302, Murray Hall, College Avenue]
+        **No students enrolled**
+[CCD 15:50] [BROWN] [AB2225, Academic Building, College Avenue]
+        **No students enrolled**
+[CCD 17:40] [CERAVOLO] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[CS100 8:30] [PATEL] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[CS100 12:10] [PATEL] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[CS200 14:00] [PATEL] [ARC103, Allison Road Classroom, Busch]
+        **No students enrolled**
+[CS200 15:50] [PATEL] [ARC103, Allison Road Classroom, Busch]
+        **No students enrolled**
+[CS300 14:00] [CERAVOLO] [MU302, Murray Hall, College Avenue]
+        **No students enrolled**
+[CS300 15:50] [HARPER] [MU302, Murray Hall, College Avenue]
+        **No students enrolled**
+[CS400 10:20] [TAYLOR] [BEAUD, Beck Hall, Livingston]
+        **No students enrolled**
+[CS400 12:10] [KAUR] [TIL232, Tillett Hall, Livingston]
+        **No students enrolled**
+[CS442 8:30] [HARPER] [AB2225, Academic Building, College Avenue]
+        **No students enrolled**
+[CS442 12:10] [ZIMNES] [ARC103, Allison Road Classroom, Busch]
+        **No students enrolled**
+[ECE300 8:30] [RAMESH] [TIL232, Tillett Hall, Livingston]
+        **No students enrolled**
+[ECE400 10:20] [RAMESH] [TIL232, Tillett Hall, Livingston]
+        **No students enrolled**
+[HST 15:50] [CERAVOLO] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[HST 17:40] [BROWN] [BEAUD, Beck Hall, Livingston]
+        **No students enrolled**
+[PHY100 10:20] [LIM] [AB2225, Academic Building, College Avenue]
+        **No students enrolled**
+[PHY100 15:50] [LIM] [TIL232, Tillett Hall, Livingston]
+        **No students enrolled**
+[PHY200 12:10] [LIM] [AB2225, Academic Building, College Avenue]
+        **No students enrolled**
+* end of list *
+INVALID: course name cs311 does not exist.
+INVALID: period 8 does not exist.
+CS100 10:20 does not exist.
+INVALID: [John Ddo 1/2/2007] does not exist.
+INVALID: course name ca111 does not exist.
+INVALID: period 7 does not exist.
+[John Doe 1/2/2007] added to CS100 8:30
+[John Doe 1/2/2007] already enrolled in CS100
+[John Doe 1/2/2007] already enrolled in CS100
+Prereq: Sophomore - [John Doe 1/2/2007] [Freshman]
+[Jane Doe 5/1/1996] added to CS200 15:50
+[Jane Doe 5/1/1996] already enrolled in CS200
+Prereq: major only - [Mary Lindsey 12/1/2001] [BAIT]
+[Carl Brown 10/7/2004] added to CS400 10:20
+Time conflict: [Carl Brown 10/7/2004] enrolled in another class at period 2
+[Carl Brown 10/7/2004] already enrolled in CS400
+INVALID: HST 8:30 does not exist.
+[Jane Doe 5/1/1996] added to HST 17:40
+[Carl Brown 10/7/2004] added to HST 17:40
+[John Doe 1/2/2007] added to HST 17:40
+[Paul Siegel 5/1/2000] added to HST 17:40
+Cannot enroll [Kate Lindsey 7/15/2002], HST 17:40 is full.
+[Paul Siegel 5/1/2000] dropped from HST 17:40
+[Roy Brooks 8/8/1999] added to HST 17:40
+Cannot enroll [Paul Siegel 5/1/2000], HST 17:40 is full.
+[Roy Brooks 8/8/1999] added to CCD 15:50
+[Roy Brooks 8/8/1999] added to CS442 8:30
+Prereq: major only - [Roy Brooks 8/8/1999] [MATH]
+[Roy Brooks 8/8/1999] added to PHY200 12:10
+[Roy Brooks 8/8/1999] added to CS200 14:00
+Cannot enroll [Roy Brooks 8/8/1999]; now has 19 will exceeds credit limit of 20.
+Prereq: major only - [John Doe 12/20/2004] [ECE]
+[John Doe 12/20/2004] added to CS200 14:00
+[John Doe 12/20/2004] added to PHY100 10:20
+[John Doe 12/20/2004] added to CCD 15:50
+INVALID: ECE400 8:30 does not exist.
+[John Doe 12/20/2004] added to ECE300 8:30
+[John Doe 12/20/2004] added to CS442 12:10
+[John Doe 12/20/2004] dropped from CCD 15:50
+[John Doe 12/20/2004] already enrolled in CS442
+[John Doe 4/3/2003] added to CCD 15:50
+[Carl Brown 10/7/2004] added to CCD 15:50
+[Mary Lindsey 12/1/2001] added to CCD 15:50
+Cannot enroll [Paul Siegel 5/1/2000], CCD 15:50 is full.
+CS100 8:30 cannot be removed [1 student(s) enrolled]
+[John Doe 1/2/2007] dropped from CS100 8:30
+CS100 8:30 removed.
+[CS100 8:30] [PATEL] [HIL114, Hill Center, Busch] added to the schedule.
+* List of sections ordered by course name, section time *
+[CCD 10:20] [BROWN] [MU302, Murray Hall, College Avenue]
+        **No students enrolled**
+[CCD 15:50] [BROWN] [AB2225, Academic Building, College Avenue]
+        **Roster**
+        [Roy Brooks 8/8/1999]
+        [John Doe 4/3/2003]
+        [Carl Brown 10/7/2004]
+        [Mary Lindsey 12/1/2001]
+[CCD 17:40] [CERAVOLO] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[CS100 8:30] [PATEL] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[CS100 12:10] [PATEL] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[CS200 14:00] [PATEL] [ARC103, Allison Road Classroom, Busch]
+        **Roster**
+        [Roy Brooks 8/8/1999]
+        [John Doe 12/20/2004]
+[CS200 15:50] [PATEL] [ARC103, Allison Road Classroom, Busch]
+        **Roster**
+        [Jane Doe 5/1/1996]
+[CS300 14:00] [CERAVOLO] [MU302, Murray Hall, College Avenue]
+        **No students enrolled**
+[CS300 15:50] [HARPER] [MU302, Murray Hall, College Avenue]
+        **No students enrolled**
+[CS400 10:20] [TAYLOR] [BEAUD, Beck Hall, Livingston]
+        **Roster**
+        [Carl Brown 10/7/2004]
+[CS400 12:10] [KAUR] [TIL232, Tillett Hall, Livingston]
+        **No students enrolled**
+[CS442 8:30] [HARPER] [AB2225, Academic Building, College Avenue]
+        **Roster**
+        [Roy Brooks 8/8/1999]
+[CS442 12:10] [ZIMNES] [ARC103, Allison Road Classroom, Busch]
+        **Roster**
+        [John Doe 12/20/2004]
+[ECE300 8:30] [RAMESH] [TIL232, Tillett Hall, Livingston]
+        **Roster**
+        [John Doe 12/20/2004]
+[ECE400 10:20] [RAMESH] [TIL232, Tillett Hall, Livingston]
+        **No students enrolled**
+[HST 15:50] [CERAVOLO] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[HST 17:40] [BROWN] [BEAUD, Beck Hall, Livingston]
+        **Roster**
+        [Jane Doe 5/1/1996]
+        [Carl Brown 10/7/2004]
+        [John Doe 1/2/2007]
+        [Roy Brooks 8/8/1999]
+[PHY100 10:20] [LIM] [AB2225, Academic Building, College Avenue]
+        **Roster**
+        [John Doe 12/20/2004]
+[PHY100 15:50] [LIM] [TIL232, Tillett Hall, Livingston]
+        **No students enrolled**
+[PHY200 12:10] [LIM] [AB2225, Academic Building, College Avenue]
+        **Roster**
+        [Roy Brooks 8/8/1999]
+* end of list *
+* List of sections ordered by campus, building *
+[CS200 14:00] [PATEL] [ARC103, Allison Road Classroom, Busch]
+        **Roster**
+        [Roy Brooks 8/8/1999]
+        [John Doe 12/20/2004]
+[CS200 15:50] [PATEL] [ARC103, Allison Road Classroom, Busch]
+        **Roster**
+        [Jane Doe 5/1/1996]
+[CS442 12:10] [ZIMNES] [ARC103, Allison Road Classroom, Busch]
+        **Roster**
+        [John Doe 12/20/2004]
+[CCD 17:40] [CERAVOLO] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[CS100 8:30] [PATEL] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[CS100 12:10] [PATEL] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[HST 15:50] [CERAVOLO] [HIL114, Hill Center, Busch]
+        **No students enrolled**
+[CCD 15:50] [BROWN] [AB2225, Academic Building, College Avenue]
+        **Roster**
+        [Roy Brooks 8/8/1999]
+        [John Doe 4/3/2003]
+        [Carl Brown 10/7/2004]
+        [Mary Lindsey 12/1/2001]
+[CS442 8:30] [HARPER] [AB2225, Academic Building, College Avenue]
+        **Roster**
+        [Roy Brooks 8/8/1999]
+[PHY100 10:20] [LIM] [AB2225, Academic Building, College Avenue]
+        **Roster**
+        [John Doe 12/20/2004]
+[PHY200 12:10] [LIM] [AB2225, Academic Building, College Avenue]
+        **Roster**
+        [Roy Brooks 8/8/1999]
+[CCD 10:20] [BROWN] [MU302, Murray Hall, College Avenue]
+        **No students enrolled**
+[CS300 14:00] [CERAVOLO] [MU302, Murray Hall, College Avenue]
+        **No students enrolled**
+[CS300 15:50] [HARPER] [MU302, Murray Hall, College Avenue]
+        **No students enrolled**
+[CS400 10:20] [TAYLOR] [BEAUD, Beck Hall, Livingston]
+        **Roster**
+        [Carl Brown 10/7/2004]
+[HST 17:40] [BROWN] [BEAUD, Beck Hall, Livingston]
+        **Roster**
+        [Jane Doe 5/1/1996]
+        [Carl Brown 10/7/2004]
+        [John Doe 1/2/2007]
+        [Roy Brooks 8/8/1999]
+[CS400 12:10] [KAUR] [TIL232, Tillett Hall, Livingston]
+        **No students enrolled**
+[ECE300 8:30] [RAMESH] [TIL232, Tillett Hall, Livingston]
+        **Roster**
+        [John Doe 12/20/2004]
+[ECE400 10:20] [RAMESH] [TIL232, Tillett Hall, Livingston]
+        **No students enrolled**
+[PHY100 15:50] [LIM] [TIL232, Tillett Hall, Livingston]
+        **No students enrolled**
+* end of list *
+[Roy Brooks 9/9/1999] is a non-resident not eligible for the scholarship.
+[Jane Doe 5/1/1996] is a non-resident not eligible for the scholarship.
+[Carl Brown 10/7/2004] is a non-resident not eligible for the scholarship.
+INVALID: scholarship amount cannot be 0 or negative or greater than $10,000.
+INVALID: scholarship amount cannot be 0 or negative or greater than $10,000.
+INVALID: amount is not an integer.
+[John Doe 4/3/2003] enrolled less than 12 credits, not eligible for the scholarship.
+Scholarship $10,000 updated for [John Doe 12/20/2004]
+Scholarship $8,000 updated for [John Doe 12/20/2004]
+[John Doe 1/2/2007] added to CCD 10:20
+[John Doe 1/2/2007] added to CS100 8:30
+[John Doe 1/2/2007] added to PHY100 15:50
+[John Doe 3/20/2007] added to PHY200 12:10
+[John Doe 3/20/2007] added to CS200 14:00
+[John Doe 3/20/2007] added to CS442 8:30
+[John Doe 3/20/2007] added to ECE400 10:20
+[John Doe 3/20/2007] added to HST 15:50
+Scholarship $4,500 updated for [John Doe 3/20/2007]
+* Student list ordered by last, first name, DOB *
+[Roy Brooks 8/8/1999] [MATH,School of Arts & Sciences] credits earned: 111 [Senior][tri-state:NY]
+[Roy Brooks 9/9/1999] [ITI,School of Communication and Information] credits earned: 100 [Senior][tri-state:CT]
+[Carl Brown 10/7/2004] [CS,School of Arts & Sciences] credits earned: 75 [Junior][international]
+[Jane Doe 5/1/1996] [CS,School of Arts & Sciences] credits earned: 30 [Sophomore][non-resident]
+[John Doe 1/20/2003] [BAIT,Rutgers Business School] credits earned: 60 [Junior][international]
+[John Doe 4/3/2003] [CS,School of Arts & Sciences] credits earned: 116 [Senior][resident]
+[John Doe 12/20/2004] [ECE,School of Engineering] credits earned: 65 [Junior][resident] [scholarship: $8,000]
+[John Doe 1/2/2007] [ECE,School of Engineering] credits earned: 20 [Freshman][resident]
+[John Doe 3/20/2007] [ECE,School of Engineering] credits earned: 90 [Senior][resident] [scholarship: $4,500]
+[May Liang 6/30/2004] [CS,School of Arts & Sciences] credits earned: 0 [Freshman][international:study abroad]
+[Nathan Lin 12/12/2003] [CS,School of Arts & Sciences] credits earned: 89 [Junior][international]
+[Kate Lindsey 7/15/2002] [ITI,School of Communication and Information] credits earned: 59 [Sophomore][international]
+[Mary Lindsey 12/1/2001] [BAIT,Rutgers Business School] credits earned: 89 [Junior][non-resident]
+[April March 3/31/2000] [BAIT,Rutgers Business School] credits earned: 109 [Senior][non-resident]
+[Bill Scanlan 5/1/1999] [CS,School of Arts & Sciences] credits earned: 120 [Senior][international]
+[Paul Siegel 5/1/2000] [CS,School of Arts & Sciences] credits earned: 90 [Senior][tri-state:CT]
+* end of list **
+[April March 3/31/2000] added to PHY200 12:10
+[April March 3/31/2000] added to CS200 14:00
+[April March 3/31/2000] added to CS442 8:30
+[April March 3/31/2000] added to HST 15:50
+[April March 3/31/2000] added to CCD 10:20
+[Mary Lindsey 12/1/2001] added to CS100 8:30
+[Mary Lindsey 12/1/2001] added to PHY200 12:10
+INVALID: PHY200 15:50 does not exist.
+[Roy Brooks 9/9/1999] added to CCD 10:20
+[Paul Siegel 5/1/2000] added to CCD 17:40
+[Paul Siegel 5/1/2000] added to CS300 14:00
+[Paul Siegel 5/1/2000] added to CS400 10:20
+[Paul Siegel 5/1/2000] added to HST 15:50
+[Paul Siegel 5/1/2000] added to CS100 12:10
+[Kate Lindsey 7/15/2002] added to PHY100 10:20
+[Carl Brown 10/7/2004] is not enrolled in this section.
+[Kate Lindsey 7/15/2002] added to HST 15:50
+[Kate Lindsey 7/15/2002] added to CS100 8:30
+[May Liang 6/30/2004] added to CCD 17:40
+[May Liang 6/30/2004] added to CS100 8:30
+International student study abroad cannot enroll more than 12 credits.
+[John Doe 1/20/2003] removed from the list.
+[Jone Doe 1/20/2003][Tristate: NY] added to the list.
+[Terry Hiro 3/3/2000][International] added to the list.
+[Nathan Lin 12/12/2003] added to CCD 10:20
+[Nathan Lin 12/12/2003] added to CS200 15:50
+[Nathan Lin 12/12/2003] added to CS300 14:00
+[Nathan Lin 12/12/2003] added to CS400 12:10
+[Nathan Lin 12/12/2003] added to CS442 8:30
+* Student list ordered by last, first name, DOB *
+[Roy Brooks 8/8/1999] [MATH,School of Arts & Sciences] credits earned: 111 [Senior][tri-state:NY]
+[Roy Brooks 9/9/1999] [ITI,School of Communication and Information] credits earned: 100 [Senior][tri-state:CT]
+[Carl Brown 10/7/2004] [CS,School of Arts & Sciences] credits earned: 75 [Junior][international]
+[Jane Doe 5/1/1996] [CS,School of Arts & Sciences] credits earned: 30 [Sophomore][non-resident]
+[John Doe 4/3/2003] [CS,School of Arts & Sciences] credits earned: 116 [Senior][resident]
+[John Doe 12/20/2004] [ECE,School of Engineering] credits earned: 65 [Junior][resident] [scholarship: $8,000]
+[John Doe 1/2/2007] [ECE,School of Engineering] credits earned: 20 [Freshman][resident]
+[John Doe 3/20/2007] [ECE,School of Engineering] credits earned: 90 [Senior][resident] [scholarship: $4,500]
+[Jone Doe 1/20/2003] [CS,School of Arts & Sciences] credits earned: 0 [Freshman][tri-state:NY]
+[Terry Hiro 3/3/2000] [CS,School of Arts & Sciences] credits earned: 0 [Freshman][international]
+[May Liang 6/30/2004] [CS,School of Arts & Sciences] credits earned: 0 [Freshman][international:study abroad]
+[Nathan Lin 12/12/2003] [CS,School of Arts & Sciences] credits earned: 89 [Junior][international]
+[Kate Lindsey 7/15/2002] [ITI,School of Communication and Information] credits earned: 59 [Sophomore][international]
+[Mary Lindsey 12/1/2001] [BAIT,Rutgers Business School] credits earned: 89 [Junior][non-resident]
+[April March 3/31/2000] [BAIT,Rutgers Business School] credits earned: 109 [Senior][non-resident]
+[Bill Scanlan 5/1/1999] [CS,School of Arts & Sciences] credits earned: 120 [Senior][international]
+[Paul Siegel 5/1/2000] [CS,School of Arts & Sciences] credits earned: 90 [Senior][tri-state:CT]
+* end of list **
+* Tuition dues ordered by student. *
+[Roy Brooks 8/8/1999][Tristate: NY]
+               CS200[14:00] [credit: 4]
+               CCD[15:50] [credit: 4]
+               CS442[8:30] [credit: 3]
+               PHY200[12:10] [credit: 5]
+               HST[17:40] [credit: 3]
+               **Total credits enrolled: 19 [tuition due: $39,135.00]
+[Roy Brooks 9/9/1999][Tristate: CT]
+               CCD[10:20] [credit: 4]
+               **Total credits enrolled: 4 [tuition due: $6,593.50]
+[Carl Brown 10/7/2004][International]
+               CCD[15:50] [credit: 4]
+               CS400[10:20] [credit: 4]
+               HST[17:40] [credit: 3]
+               **International student must enroll at least 12 credits.
+[Jane Doe 5/1/1996][Noresident]
+               CS200[15:50] [credit: 4]
+               HST[17:40] [credit: 3]
+               **Total credits enrolled: 7 [tuition due: $10,079.50]
+[John Doe 4/3/2003][Resident]
+               CCD[15:50] [credit: 4]
+               **Total credits enrolled: 4 [tuition due: $3,873.50]
+[John Doe 12/20/2004][Resident]
+               CS200[14:00] [credit: 4]
+               CS442[12:10] [credit: 3]
+               PHY100[10:20] [credit: 5]
+               ECE300[8:30] [credit: 4]
+               **Total credits enrolled: 16 [tuition due: $10,824.00]
+[John Doe 1/2/2007][Resident]
+               CS100[8:30] [credit: 4]
+               CCD[10:20] [credit: 4]
+               HST[17:40] [credit: 3]
+               PHY100[15:50] [credit: 5]
+               **Total credits enrolled: 16 [tuition due: $18,824.00]
+[John Doe 3/20/2007][Resident]
+               CS200[14:00] [credit: 4]
+               HST[15:50] [credit: 3]
+               CS442[8:30] [credit: 3]
+               PHY200[12:10] [credit: 5]
+               ECE400[10:20] [credit: 4]
+               **Total credits enrolled: 19 [tuition due: $15,770.00]
+[Jone Doe 1/20/2003][Tristate: NY]
+               **not enrolled.
+[Terry Hiro 3/3/2000][International]
+               **International student must enroll at least 12 credits.
+[May Liang 6/30/2004][International study abroad]
+               CCD[17:40] [credit: 4]
+               CS100[8:30] [credit: 4]
+               **Total credits enrolled: 8 [tuition due: $5,095.50]
+[Nathan Lin 12/12/2003][International]
+               CS200[15:50] [credit: 4]
+               CS442[8:30] [credit: 3]
+               CCD[10:20] [credit: 4]
+               CS300[14:00] [credit: 4]
+               CS400[12:10] [credit: 4]
+               **Total credits enrolled: 19 [tuition due: $46,285.00]
+[Kate Lindsey 7/15/2002][International]
+               CS100[8:30] [credit: 4]
+               HST[15:50] [credit: 3]
+               PHY100[10:20] [credit: 5]
+               **Total credits enrolled: 12 [tuition due: $42,799.00]
+[Mary Lindsey 12/1/2001][Noresident]
+               CS100[8:30] [credit: 4]
+               CCD[15:50] [credit: 4]
+               PHY200[12:10] [credit: 5]
+               **Total credits enrolled: 13 [tuition due: $39,649.00]
+[April March 3/31/2000][Noresident]
+               CS200[14:00] [credit: 4]
+               HST[15:50] [credit: 3]
+               CS442[8:30] [credit: 3]
+               PHY200[12:10] [credit: 5]
+               CCD[10:20] [credit: 4]
+               **Total credits enrolled: 19 [tuition due: $43,135.00]
+[Bill Scanlan 5/1/1999][International]
+               **International student must enroll at least 12 credits.
+[Paul Siegel 5/1/2000][Tristate: CT]
+               CCD[17:40] [credit: 4]
+               CS100[12:10] [credit: 4]
+               HST[15:50] [credit: 3]
+               CS300[14:00] [credit: 4]
+               CS400[10:20] [credit: 4]
+               **Total credits enrolled: 19 [tuition due: $38,135.00]
+* end of list *
+* List of students eligible for graduation, ordered by major *
+[Bill Scanlan 5/1/1999][CS,School of Arts & Sciences]
+* end of list *
+q is an invalid command!
+Registration System is terminated.

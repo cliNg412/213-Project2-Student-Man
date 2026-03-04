@@ -1,0 +1,205 @@
+ar
+an
+at
+ai
+aa
+r
+o
+c
+e
+d
+q
+pc
+PC
+ps
+PS
+pl
+PL
+pt
+PT
+pg
+PG
+blah
+x
+
+AR John Doe 10/2/2022 ECE 10
+AR John Doe 10/2/2024 ECE 10
+AR John Doe 9/2/2026 ECE 10
+AR John Doe 2/29/2003 ECE 105 
+AR John Doe 4/31/2003  ECE 105
+AR John Doe 13/31/2003  ECE 105
+AR John Doe 3/32/2003  ECE 105
+AR John Doe -1/31/2003  ECE 105
+
+AR April Doe 1/20/2003   CC 105
+AR April Doe 1/20/2003   ECE -1
+AR April Doe 1/20/2003   ECE XX
+AR April Doe 1/20/2003   ECE  
+AT Duke Ellington 2/29/2004  math 46 
+AT Duke Ellington 2/29/2004  math 46 NN
+L
+PS
+
+R John Doe 3/20/2007
+R John Doe 3/20/2007
+L
+
+O cs113 1 patel hil114
+O cs100 0 patel hil114
+O cs100 1 patell hil114
+O cs100 1 patel hil1114
+
+O cs100 1 patel hil114
+O cs100 1 patel hil114
+
+O cs200 1 patel hil114
+O cs200 1 harper hil114
+
+O cs100 3 patel hil114
+O cs200 4 patel arc103
+O cs200 5 patel arc103
+O cs300 5 patel arc103
+O cs300 5 harper mu302
+O cs300 4 ceravolo mu302
+O cs442 1 harper ab2225
+O cs400 3 kaur til232
+O cs400 2 taylor beaud
+O cs442 3 zimnes arc103
+O hst 6 brown beaud
+O hst 5 ceravolo hil114
+O ccd 5 brown ab2225
+O ccd 2 brown mu302
+O phy100 2 lim ab2225
+O phy100 5 lim TIL232
+O phy200 3 lim ab2225
+O ece300 1 ramesh til232
+O ece400 2 ramesh til232 
+O CCD 6 CERAVOLO HIL114
+PC
+
+C cs311 2
+C cs100 8
+C cs100 2
+
+E John Ddo 1/2/2007 cs100 1
+E John Doe 1/2/2007 ca111 1
+E John Doe 1/2/2007 cs100 7
+
+E John Doe 1/2/2007 cs100 1
+E John Doe 1/2/2007 cs100 3
+E John Doe 1/2/2007 cs100 1
+E John Doe 1/2/2007 cs200 5
+E Jane Doe 5/1/1996 cs200 5
+E Jane Doe 5/1/1996 cs200 4
+E Mary Lindsey 12/1/2001 cs400 2
+E Carl Brown 10/7/2004 cs400 2
+E Carl Brown 10/7/2004 phy100 2
+E Carl Brown 10/7/2004 cs400 3
+
+
+E Jane Doe 5/1/1996 hst 1
+E Jane Doe 5/1/1996 hst 6
+E Carl Brown 10/7/2004 hst 6
+E John Doe 1/2/2007 hst 6
+E Paul Siegel 5/1/2000 hst 6
+E Kate Lindsey 7/15/2002 hst 6
+D Paul Siegel 5/1/2000 hst 6
+E Roy Brooks 8/8/1999 hst 6
+E Paul Siegel 5/1/2000 hst 6
+
+
+E Roy Brooks 8/8/1999 ccd 5
+E Roy Brooks 8/8/1999 cs442 1
+E Roy Brooks 8/8/1999 cs400 3
+E Roy Brooks 8/8/1999 phy200 3
+E Roy Brooks 8/8/1999 cs200 4
+E Roy Brooks 8/8/1999 phy100 2
+
+E John Doe 12/20/2004 cs300 5
+E John Doe 12/20/2004 cs200 4
+E John Doe 12/20/2004 phy100 2
+E John Doe 12/20/2004 ccd 5
+E John Doe 12/20/2004 ece400 1
+E John Doe 12/20/2004 ece300 1
+E John Doe 12/20/2004 cs442 3
+D John Doe 12/20/2004 ccd 5
+E John Doe 12/20/2004 cs442 3
+E John Doe 4/3/2003 ccd 5
+E Carl Brown 10/7/2004 ccd 5
+E Mary Lindsey 12/1/2001 ccd 5
+E Paul Siegel 5/1/2000 ccd 5
+
+ 
+C cs100 1
+D John Doe 1/2/2007 cs100 1
+C cs100 1
+O cs100 1 patel hil114
+PC
+PL
+
+S Roy Brooks 9/9/1999 1000
+S Jane Doe 5/1/1996 1000
+S Carl Brown 10/7/2004 1000
+S John Doe 12/20/2004 -1
+S John Doe 12/20/2004 10001
+S John Doe 12/20/2004 XX
+S John Doe 4/3/2003 10000
+S John Doe 12/20/2004 10000
+S John Doe 12/20/2004 8000
+
+E John Doe 1/2/2007 CCD 2
+E John Doe 1/2/2007 CS100 1
+E John Doe 1/2/2007 PHY100 5
+
+E John Doe 3/20/2007 phy200 3
+E John Doe 3/20/2007 cs200 4
+E John Doe 3/20/2007 CS442 1
+E John Doe 3/20/2007 ECE400 2
+E John Doe 3/20/2007 HST 5
+S John Doe 3/20/2007 4500
+PS
+
+
+E April March 3/31/2000 PHY200 3
+E April March 3/31/2000 CS200 4
+E April March 3/31/2000 CS442 1
+E April March 3/31/2000 HST 5
+E April March 3/31/2000 CCD 2
+
+E Mary Lindsey 12/1/2001 CS100 1
+E Mary Lindsey 12/1/2001 PHY200 3
+
+E Roy Brooks 9/9/1999 PHY200 5
+E Roy Brooks 9/9/1999 CCD 2
+ 
+E Paul Siegel 5/1/2000 CCD 6
+E Paul Siegel 5/1/2000 CS300 4
+E Paul Siegel 5/1/2000 CS400 2
+E Paul Siegel 5/1/2000 HST 5
+E Paul Siegel 5/1/2000 CS100 3
+
+E Kate Lindsey 7/15/2002 phy100 2
+D Carl Brown 10/7/2004 HST 5
+E Kate Lindsey 7/15/2002 HST 5
+E Kate Lindsey 7/15/2002 cs100 1
+
+
+E May Liang 6/30/2004 CCD 6
+E May Liang 6/30/2004 CS100 1
+E May Liang 6/30/2004 PHY100 2
+R John Doe 1/20/2003
+AT Jone Doe 1/20/2003 cs 0 NY
+AI Terry Hiro 3/3/2000 cs 0 false
+E Nathan Lin 12/12/2003 CCD 2
+E Nathan Lin 12/12/2003 CS200 5
+E Nathan Lin 12/12/2003 CS300 4
+E Nathan Lin 12/12/2003 CS400 3
+E Nathan Lin 12/12/2003 CS442 1
+PS
+PT
+PG
+q
+Q
+This line is a garbage line to test the Q command.
+
+
